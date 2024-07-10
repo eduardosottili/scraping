@@ -64,3 +64,6 @@ while True:
     #fecha conexao com o BD
     #cursor.close()
     #conexao.close()
+    #commit
+
+    
